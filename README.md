@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ge64com/PI-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/588px-Pi-symbol.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PI-Generator</h3>
@@ -211,16 +211,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ge64com/PI-Generator?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ge64com/PI-Generator
 [contributors-url]: https://github.com/ge64com/PI-Generator/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ge64com/PI-Generator?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Ge64com/PI-Generator
 [forks-url]: https://github.com/Ge64com/PI-Generator/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ge64com/PI-Generator?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Ge64com/PI-Generator
 [stars-url]: https://github.com/Ge64com/PI-Generator/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ge64com/PI-Generator?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Ge64com/PI-Generator
 [issues-url]: https://github.com/Ge64com/PI-Generator/issues
-[license-shield]: https://img.shields.io/github/license/Ge64com/PI-Generator?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Ge64com/PI-Generator
 [license-url]: https://github.com/Ge64com/PI-Generator/blob/main/LICENSE.md
 [product-screenshot]: images/screenshot.png
-[python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white
+[python]: https://img.shields.io/badge/Python-000000&logo=python?logoColor=white
 [python-url]: https://python.org/
