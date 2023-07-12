@@ -69,7 +69,9 @@ I have used <a href="python.org">Python</a> for Generating the number and creati
 
 ## Getting Started
 Just download the <a href="https://github.com/Ge64com/PI-Generator/releases/latest">latest version</a> from <a href="https://github.com/Ge64com/PI-Generator/releases">releases</a>.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 To use this program you just have to enter the amount of digits that you want into the entry and click the "Generate" button and just wait for the result to apear.
 The number will be written into a .txt file and you can view it whenever you want with the "Show Pi" command in the "File" menubar !</br>
