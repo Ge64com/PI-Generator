@@ -67,14 +67,12 @@ This program uses the Tkinter library for it's GUI and <a href="https://github.c
 
 
 
-### Built With
+## Built With
+</hr>
 I have used <a href="python.org">Python</a> for Generating the number and creating the GUI.
 * [![Python][Python]][Python-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 Just download the <a href="https://github.com/Ge64com/PI-Generator/releases/latest">latest version</a> from <a href="https://github.com/Ge64com/PI-Generator/releases">releases</a>.
 
@@ -107,10 +105,10 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+[![YouTube][youtube-shield]][youtube-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Telegram][telegram-shield]][telegram-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,5 +126,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/Ge64com/PI-Generator
 [license-url]: https://github.com/Ge64com/PI-Generator/blob/main/LICENSE.md
 [product-screenshot]: screenshots/screenshot.PNG
-[python]: https://img.shields.io/badge/Python-000000&logo=python?logoColor=white
+[python]: https://img.shields.io/badge/Python-000000?logo=python&logoColor=white
 [python-url]: https://python.org/
+[youtube-shield]: https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white
+[youtube-url]: https://youtube.com/@Ge64
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white
+[instagram-url]: https://instagram.com/Ge64com
+[twitter-shield]: https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/Ge64com
+[telegram-shield]: https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white
+[telegram-url]: https://t.me/Ge64com
